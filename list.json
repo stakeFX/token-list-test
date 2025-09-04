@@ -6,7 +6,7 @@
   "tokens": [
     {
       "chainId": 45545,
-      "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+      "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "name": "TRRXITTE Ethereum",
       "symbol": "ETX",
       "decimals": 18,
@@ -18,6 +18,15 @@
       "address": "0x162FE80d4a434a400409B76eAEbFcADf51264F0a",
       "name": "Wrapped TRRXITTE ETH",
       "symbol": "WETX",
+      "decimals": 18,
+      "logoURI": "https://trrxitte.com/ethereum/etx.png",
+      "tags": ["wrapped", "dex"]
+    },
+        {
+      "chainId": 45545,
+      "address": "0x945873B31b1ec40C1ac3e55d0Dec1535Fb663064",
+      "name": "moon.sarl",
+      "symbol": "ETSAR",
       "decimals": 18,
       "logoURI": "https://trrxitte.com/ethereum/etx.png",
       "tags": ["wrapped", "dex"]
