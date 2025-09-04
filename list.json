@@ -1,0 +1,41 @@
+{
+  "name": "TRRXITTE Ethereum Token List",
+  "logoURI": "https://trrxitte.com/ethereum/etx.png",
+  "keywords": ["etx", "dex", "trrxitte"],
+  "timestamp": "2025-09-02T20:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 45545,
+      "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+      "name": "TRRXITTE Ethereum",
+      "symbol": "ETX",
+      "decimals": 18,
+      "logoURI": "https://trrxitte.com/ethereum/etx.png",
+      "tags": ["native", "dex"],
+      "extensions": {
+        "coingeckoId": null,
+        "url": "https://trrxitte.com/ethereum/etx.png"
+      },
+      "safetyLevel": "trusted"
+    },
+    {
+      "chainId": 45545,
+      "address": "0x162FE80d4a434a400409B76eAEbFcADf51264F0a",
+      "name": "Wrapped TRRXITTE ETH",
+      "symbol": "WETX",
+      "decimals": 18,
+      "logoURI": "https://trrxitte.com/ethereum/etx.png",
+      "tags": ["wrapped", "dex"],
+      "extensions": {
+        "coingeckoId": null,
+        "url": "https://trrxitte.com/ethereum/etx.png"
+      },
+      "safetyLevel": "trusted"
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 1
+  }
+}
